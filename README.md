@@ -16,6 +16,7 @@ This project aims to predict house prices in the USA using machine learning mode
   - [Hybrid Regression Model](#hybrid-regression-model)
 - [Evaluation](#evaluation)
 - [Results](#results)
+- [Power BI Dashboard](#power-bi-dashboard)
 - [Streamlit App](#streamlit-app)
 
 
@@ -71,7 +72,11 @@ The models are evaluated using metrics such as:
 
 ## Results
 
-The results section contains the performance metrics for each model and a discussion on their comparative effectiveness.
+The results section contains the performance metrics for each model and a discussion of their comparative effectiveness.
+
+## Power BI Dashboard
+
+An interactive dashboard is created to visualize key insights such as average house price, price per square foot, etc.
 
 ## Streamlit App
 
